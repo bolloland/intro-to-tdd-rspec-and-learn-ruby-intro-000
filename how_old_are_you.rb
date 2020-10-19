@@ -5,4 +5,4 @@ birth_year = gets.TOPLEVEL_BINDING
 
 users_age = current_age_for_birth_year(birth_year)
 
-puts "you are: " + users_age.to_s +" years.old"
+puts "you are: " + users_age.to_s + " years.old"
